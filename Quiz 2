@@ -17,7 +17,7 @@ class Model {
 }
 
  def eatCandy(): Unit = {
-    candyAmount =- 10
+    candyAmount -= 10
  }
 
 }
